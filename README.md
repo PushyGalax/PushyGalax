@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushygalax" alt="pushygalax" /></a> </p>
 
-- 🔭 I’m currently performing a degree in **networking and telecommunication**
+- 🔭 I’m currently performing a degree in **networking and telecommunication** and I'm an employee of the compagny **Association Prévention Santé au Travil 26/07**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I'm working on **EtherFog**
+- 👯 I'm working on **My Degree and My PTUT**
 
-- 💬 Ask me about **Java, python**
+- 💬 Ask me about **Java, python, networking**
 
 - 📫 How to reach me **bermondmimi@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/michel-bermond/](https://www.linkedin.com/in/michel-bermond/)
 
-- ⚡ Fun fact **Don't forget music**
+- ⚡ Fun fact **don't forget music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
